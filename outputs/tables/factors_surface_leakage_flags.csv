@@ -1,0 +1,3 @@
+feature,genuine_mean,misleading_mean,absolute_mean_difference,standardised_difference,absolute_standardised_difference,flag_type,first_token,genuine,misleading,total,genuine_rate,misleading_rate,absolute_rate_difference
+,,,,,,first_token_difference,says,46.0,90.0,136.0,0.17624521072796934,0.3448275862068966,0.16858237547892724
+,,,,,,first_token_difference,the,50.0,33.0,83.0,0.19157088122605365,0.12643678160919541,0.06513409961685823

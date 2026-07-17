@@ -1,0 +1,11 @@
+metric,value
+total_rows,522.0
+total_pairs,261.0
+genuine_rows,261.0
+misleading_rows,261.0
+round1_pairs,227.0
+round2_replacement_pairs,34.0
+duplicate_claim_ids,0.0
+duplicate_claim_texts,0.0
+exact_liar2_overlaps,0.0
+largest_source_share_percentage,61.3

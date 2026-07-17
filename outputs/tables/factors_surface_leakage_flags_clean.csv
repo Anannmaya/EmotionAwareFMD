@@ -1,0 +1,2 @@
+feature,genuine_mean,misleading_mean,absolute_mean_difference,standardised_difference,absolute_standardised_difference,flag_type,first_token,genuine,misleading,total,genuine_rate,misleading_rate,absolute_rate_difference
+,,,,,,first_token_difference,the,56.0,42.0,98.0,0.21455938697318008,0.16091954022988506,0.05363984674329503

@@ -1,0 +1,5 @@
+split,total_rows,genuine_rows,misleading_rows,exact_topic_match_rate,mean_word_difference,median_word_difference,maximum_word_difference
+train,1632,816,816,0.9792,0.353,0.0,9
+validation,228,114,114,0.8421,1.702,1.0,11
+test,188,94,94,0.8936,1.202,1.0,9
+all,2048,1024,1024,0.9561,0.581,0.0,11

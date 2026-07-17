@@ -1,0 +1,355 @@
+matched_pair_id,pair_source,shared_concept_count,concept_jaccard,word_difference,has_shared_concept
+politifact_001,PolitiFact,3,1.0,3,True
+politifact_002,PolitiFact,3,1.0,25,True
+politifact_003,PolitiFact,2,1.0,0,True
+politifact_004,PolitiFact,2,1.0,1,True
+politifact_005,PolitiFact,2,1.0,1,True
+politifact_006,PolitiFact,2,1.0,2,True
+politifact_007,PolitiFact,2,1.0,2,True
+politifact_008,PolitiFact,2,1.0,3,True
+politifact_009,PolitiFact,2,1.0,5,True
+politifact_010,PolitiFact,2,1.0,5,True
+politifact_011,PolitiFact,2,1.0,6,True
+politifact_012,PolitiFact,2,1.0,7,True
+politifact_013,PolitiFact,2,1.0,9,True
+politifact_014,PolitiFact,2,1.0,12,True
+politifact_015,PolitiFact,2,0.6666666666666666,5,True
+politifact_016,PolitiFact,1,1.0,0,True
+politifact_017,PolitiFact,1,1.0,0,True
+politifact_018,PolitiFact,1,1.0,0,True
+politifact_019,PolitiFact,1,1.0,0,True
+politifact_020,PolitiFact,1,1.0,0,True
+politifact_021,PolitiFact,1,1.0,0,True
+politifact_022,PolitiFact,1,1.0,0,True
+politifact_023,PolitiFact,1,1.0,0,True
+politifact_024,PolitiFact,1,1.0,0,True
+politifact_025,PolitiFact,1,1.0,0,True
+politifact_026,PolitiFact,1,1.0,0,True
+politifact_027,PolitiFact,1,1.0,0,True
+politifact_028,PolitiFact,1,1.0,0,True
+politifact_029,PolitiFact,1,1.0,0,True
+politifact_030,PolitiFact,1,1.0,0,True
+politifact_031,PolitiFact,1,1.0,0,True
+politifact_032,PolitiFact,1,1.0,0,True
+politifact_033,PolitiFact,1,1.0,0,True
+politifact_034,PolitiFact,1,1.0,0,True
+politifact_035,PolitiFact,1,1.0,0,True
+politifact_036,PolitiFact,1,1.0,0,True
+politifact_037,PolitiFact,1,1.0,0,True
+politifact_038,PolitiFact,1,1.0,0,True
+politifact_039,PolitiFact,1,1.0,0,True
+politifact_040,PolitiFact,1,1.0,0,True
+politifact_041,PolitiFact,1,1.0,0,True
+politifact_042,PolitiFact,1,1.0,0,True
+politifact_043,PolitiFact,1,1.0,0,True
+politifact_044,PolitiFact,1,1.0,0,True
+politifact_045,PolitiFact,1,1.0,0,True
+politifact_046,PolitiFact,1,1.0,0,True
+politifact_047,PolitiFact,1,1.0,0,True
+politifact_048,PolitiFact,1,1.0,0,True
+politifact_049,PolitiFact,1,1.0,0,True
+politifact_050,PolitiFact,1,1.0,0,True
+politifact_051,PolitiFact,1,1.0,0,True
+politifact_052,PolitiFact,1,1.0,0,True
+politifact_053,PolitiFact,1,1.0,0,True
+politifact_054,PolitiFact,1,1.0,0,True
+politifact_055,PolitiFact,1,1.0,0,True
+politifact_056,PolitiFact,1,1.0,0,True
+politifact_057,PolitiFact,1,1.0,0,True
+politifact_058,PolitiFact,1,1.0,0,True
+politifact_059,PolitiFact,1,1.0,0,True
+politifact_060,PolitiFact,1,1.0,0,True
+politifact_061,PolitiFact,1,1.0,0,True
+politifact_062,PolitiFact,1,1.0,0,True
+politifact_063,PolitiFact,1,1.0,0,True
+politifact_064,PolitiFact,1,1.0,0,True
+politifact_065,PolitiFact,1,1.0,0,True
+politifact_066,PolitiFact,1,1.0,0,True
+politifact_067,PolitiFact,1,1.0,0,True
+politifact_068,PolitiFact,1,1.0,0,True
+politifact_069,PolitiFact,1,1.0,0,True
+politifact_070,PolitiFact,1,1.0,0,True
+politifact_071,PolitiFact,1,1.0,0,True
+politifact_072,PolitiFact,1,1.0,0,True
+politifact_073,PolitiFact,1,1.0,0,True
+politifact_074,PolitiFact,1,1.0,0,True
+politifact_075,PolitiFact,1,1.0,0,True
+politifact_076,PolitiFact,1,1.0,0,True
+politifact_077,PolitiFact,1,1.0,0,True
+politifact_078,PolitiFact,1,1.0,0,True
+politifact_079,PolitiFact,1,1.0,0,True
+politifact_080,PolitiFact,1,1.0,0,True
+politifact_081,PolitiFact,1,1.0,0,True
+politifact_082,PolitiFact,1,1.0,0,True
+politifact_083,PolitiFact,1,1.0,0,True
+politifact_084,PolitiFact,1,1.0,0,True
+politifact_085,PolitiFact,1,1.0,0,True
+politifact_086,PolitiFact,1,1.0,0,True
+politifact_087,PolitiFact,1,1.0,0,True
+politifact_088,PolitiFact,1,1.0,0,True
+politifact_089,PolitiFact,1,1.0,0,True
+politifact_090,PolitiFact,1,1.0,0,True
+politifact_091,PolitiFact,1,1.0,0,True
+politifact_092,PolitiFact,1,1.0,0,True
+politifact_093,PolitiFact,1,1.0,0,True
+politifact_094,PolitiFact,1,1.0,0,True
+politifact_095,PolitiFact,1,1.0,0,True
+politifact_096,PolitiFact,1,1.0,0,True
+politifact_097,PolitiFact,1,1.0,0,True
+politifact_098,PolitiFact,1,1.0,0,True
+politifact_099,PolitiFact,1,1.0,0,True
+politifact_100,PolitiFact,1,1.0,0,True
+politifact_101,PolitiFact,1,1.0,0,True
+politifact_102,PolitiFact,1,1.0,1,True
+politifact_103,PolitiFact,1,1.0,1,True
+politifact_104,PolitiFact,1,1.0,1,True
+politifact_105,PolitiFact,1,1.0,1,True
+politifact_106,PolitiFact,1,1.0,1,True
+politifact_107,PolitiFact,1,1.0,1,True
+politifact_108,PolitiFact,1,1.0,1,True
+politifact_109,PolitiFact,1,1.0,1,True
+politifact_110,PolitiFact,1,1.0,1,True
+politifact_111,PolitiFact,1,1.0,1,True
+politifact_112,PolitiFact,1,1.0,1,True
+politifact_113,PolitiFact,1,1.0,1,True
+politifact_114,PolitiFact,1,1.0,1,True
+politifact_115,PolitiFact,1,1.0,1,True
+politifact_116,PolitiFact,1,1.0,1,True
+politifact_117,PolitiFact,1,1.0,1,True
+politifact_118,PolitiFact,1,1.0,1,True
+politifact_119,PolitiFact,1,1.0,1,True
+politifact_120,PolitiFact,1,1.0,1,True
+politifact_121,PolitiFact,1,1.0,1,True
+politifact_122,PolitiFact,1,1.0,1,True
+politifact_123,PolitiFact,1,1.0,1,True
+politifact_124,PolitiFact,1,1.0,1,True
+politifact_125,PolitiFact,1,1.0,1,True
+politifact_126,PolitiFact,1,1.0,1,True
+politifact_127,PolitiFact,1,1.0,1,True
+politifact_128,PolitiFact,1,1.0,1,True
+politifact_129,PolitiFact,1,1.0,1,True
+politifact_130,PolitiFact,1,1.0,1,True
+politifact_131,PolitiFact,1,1.0,1,True
+politifact_132,PolitiFact,1,1.0,1,True
+politifact_133,PolitiFact,1,1.0,1,True
+politifact_134,PolitiFact,1,1.0,1,True
+politifact_135,PolitiFact,1,1.0,1,True
+politifact_136,PolitiFact,1,1.0,2,True
+politifact_137,PolitiFact,1,1.0,2,True
+politifact_138,PolitiFact,1,1.0,2,True
+politifact_139,PolitiFact,1,1.0,2,True
+politifact_140,PolitiFact,1,1.0,2,True
+politifact_141,PolitiFact,1,1.0,2,True
+politifact_142,PolitiFact,1,1.0,2,True
+politifact_143,PolitiFact,1,1.0,2,True
+politifact_144,PolitiFact,1,1.0,2,True
+politifact_145,PolitiFact,1,1.0,2,True
+politifact_146,PolitiFact,1,1.0,2,True
+politifact_147,PolitiFact,1,1.0,2,True
+politifact_148,PolitiFact,1,1.0,2,True
+politifact_149,PolitiFact,1,1.0,2,True
+politifact_150,PolitiFact,1,1.0,2,True
+politifact_151,PolitiFact,1,1.0,2,True
+politifact_152,PolitiFact,1,1.0,2,True
+politifact_153,PolitiFact,1,1.0,3,True
+politifact_154,PolitiFact,1,1.0,3,True
+politifact_155,PolitiFact,1,1.0,3,True
+politifact_156,PolitiFact,1,1.0,3,True
+politifact_157,PolitiFact,1,1.0,3,True
+politifact_158,PolitiFact,1,1.0,4,True
+politifact_159,PolitiFact,1,1.0,4,True
+politifact_160,PolitiFact,1,1.0,4,True
+politifact_161,PolitiFact,1,1.0,5,True
+politifact_162,PolitiFact,1,1.0,5,True
+politifact_163,PolitiFact,1,1.0,5,True
+politifact_164,PolitiFact,1,1.0,6,True
+politifact_165,PolitiFact,1,1.0,6,True
+politifact_166,PolitiFact,1,1.0,6,True
+politifact_167,PolitiFact,1,1.0,6,True
+politifact_168,PolitiFact,1,1.0,7,True
+politifact_169,PolitiFact,1,1.0,8,True
+politifact_170,PolitiFact,1,1.0,8,True
+politifact_171,PolitiFact,1,1.0,9,True
+politifact_172,PolitiFact,1,1.0,10,True
+politifact_173,PolitiFact,1,1.0,10,True
+politifact_174,PolitiFact,1,1.0,10,True
+politifact_175,PolitiFact,1,1.0,13,True
+politifact_176,PolitiFact,1,1.0,14,True
+politifact_177,PolitiFact,1,1.0,25,True
+politifact_178,PolitiFact,1,1.0,29,True
+politifact_179,PolitiFact,1,0.5,0,True
+politifact_180,PolitiFact,1,0.5,0,True
+politifact_181,PolitiFact,1,0.5,0,True
+politifact_182,PolitiFact,1,0.5,0,True
+politifact_183,PolitiFact,1,0.5,0,True
+politifact_184,PolitiFact,1,0.5,1,True
+politifact_185,PolitiFact,1,0.5,2,True
+politifact_186,PolitiFact,1,0.5,3,True
+politifact_187,PolitiFact,1,0.5,3,True
+politifact_188,PolitiFact,1,0.5,3,True
+politifact_189,PolitiFact,1,0.5,7,True
+politifact_190,PolitiFact,1,0.5,9,True
+politifact_191,PolitiFact,1,0.5,10,True
+politifact_192,PolitiFact,1,0.3333333333333333,0,True
+politifact_193,PolitiFact,1,0.3333333333333333,2,True
+politifact_194,PolitiFact,1,0.3333333333333333,2,True
+politifact_195,PolitiFact,1,0.3333333333333333,3,True
+politifact_196,PolitiFact,1,0.3333333333333333,6,True
+politifact_197,PolitiFact,0,0.0,0,False
+politifact_198,PolitiFact,0,0.0,0,False
+politifact_199,PolitiFact,0,0.0,0,False
+politifact_200,PolitiFact,0,0.0,0,False
+snopes_001,Snopes,2,1.0,1,True
+snopes_002,Snopes,2,1.0,2,True
+snopes_003,Snopes,2,1.0,13,True
+snopes_004,Snopes,2,0.5,10,True
+snopes_005,Snopes,1,1.0,0,True
+snopes_006,Snopes,1,1.0,0,True
+snopes_007,Snopes,1,1.0,0,True
+snopes_008,Snopes,1,1.0,0,True
+snopes_009,Snopes,1,1.0,0,True
+snopes_010,Snopes,1,1.0,0,True
+snopes_011,Snopes,1,1.0,0,True
+snopes_012,Snopes,1,1.0,0,True
+snopes_013,Snopes,1,1.0,0,True
+snopes_014,Snopes,1,1.0,0,True
+snopes_015,Snopes,1,1.0,0,True
+snopes_016,Snopes,1,1.0,0,True
+snopes_017,Snopes,1,1.0,0,True
+snopes_018,Snopes,1,1.0,0,True
+snopes_019,Snopes,1,1.0,0,True
+snopes_020,Snopes,1,1.0,0,True
+snopes_021,Snopes,1,1.0,0,True
+snopes_022,Snopes,1,1.0,0,True
+snopes_023,Snopes,1,1.0,0,True
+snopes_024,Snopes,1,1.0,0,True
+snopes_025,Snopes,1,1.0,0,True
+snopes_026,Snopes,1,1.0,0,True
+snopes_027,Snopes,1,1.0,0,True
+snopes_028,Snopes,1,1.0,0,True
+snopes_029,Snopes,1,1.0,0,True
+snopes_030,Snopes,1,1.0,0,True
+snopes_031,Snopes,1,1.0,0,True
+snopes_032,Snopes,1,1.0,0,True
+snopes_033,Snopes,1,1.0,0,True
+snopes_034,Snopes,1,1.0,0,True
+snopes_035,Snopes,1,1.0,0,True
+snopes_036,Snopes,1,1.0,1,True
+snopes_037,Snopes,1,1.0,1,True
+snopes_038,Snopes,1,1.0,1,True
+snopes_039,Snopes,1,1.0,1,True
+snopes_040,Snopes,1,1.0,1,True
+snopes_041,Snopes,1,1.0,1,True
+snopes_042,Snopes,1,1.0,1,True
+snopes_043,Snopes,1,1.0,1,True
+snopes_044,Snopes,1,1.0,1,True
+snopes_045,Snopes,1,1.0,1,True
+snopes_046,Snopes,1,1.0,1,True
+snopes_047,Snopes,1,1.0,1,True
+snopes_048,Snopes,1,1.0,1,True
+snopes_049,Snopes,1,1.0,1,True
+snopes_050,Snopes,1,1.0,1,True
+snopes_051,Snopes,1,1.0,1,True
+snopes_052,Snopes,1,1.0,2,True
+snopes_053,Snopes,1,1.0,2,True
+snopes_054,Snopes,1,1.0,2,True
+snopes_055,Snopes,1,1.0,2,True
+snopes_056,Snopes,1,1.0,2,True
+snopes_057,Snopes,1,1.0,2,True
+snopes_058,Snopes,1,1.0,2,True
+snopes_059,Snopes,1,1.0,3,True
+snopes_060,Snopes,1,1.0,3,True
+snopes_061,Snopes,1,1.0,3,True
+snopes_062,Snopes,1,1.0,3,True
+snopes_063,Snopes,1,1.0,4,True
+snopes_064,Snopes,1,1.0,5,True
+snopes_065,Snopes,1,1.0,5,True
+snopes_066,Snopes,1,1.0,7,True
+snopes_067,Snopes,1,1.0,7,True
+snopes_068,Snopes,1,1.0,7,True
+snopes_069,Snopes,1,1.0,8,True
+snopes_070,Snopes,1,1.0,9,True
+snopes_071,Snopes,1,1.0,9,True
+snopes_072,Snopes,1,1.0,11,True
+snopes_073,Snopes,1,1.0,12,True
+snopes_074,Snopes,1,1.0,12,True
+snopes_075,Snopes,1,1.0,13,True
+snopes_076,Snopes,1,1.0,19,True
+snopes_077,Snopes,1,0.5,0,True
+snopes_078,Snopes,0,0.0,0,False
+snopes_079,Snopes,0,0.0,0,False
+snopes_080,Snopes,0,0.0,0,False
+snopes_081,Snopes,0,0.0,0,False
+snopes_082,Snopes,0,0.0,0,False
+snopes_083,Snopes,0,0.0,1,False
+snopes_084,Snopes,0,0.0,1,False
+snopes_085,Snopes,0,0.0,1,False
+snopes_086,Snopes,0,0.0,10,False
+africa_check_001,Africa Check,1,1.0,0,True
+africa_check_002,Africa Check,1,1.0,0,True
+africa_check_003,Africa Check,1,1.0,0,True
+africa_check_004,Africa Check,1,1.0,0,True
+africa_check_005,Africa Check,1,1.0,0,True
+africa_check_006,Africa Check,1,1.0,0,True
+africa_check_007,Africa Check,1,1.0,0,True
+africa_check_008,Africa Check,1,1.0,0,True
+africa_check_009,Africa Check,1,1.0,0,True
+africa_check_010,Africa Check,1,1.0,0,True
+africa_check_011,Africa Check,1,1.0,0,True
+africa_check_012,Africa Check,1,1.0,0,True
+africa_check_013,Africa Check,1,1.0,0,True
+africa_check_014,Africa Check,1,1.0,1,True
+africa_check_015,Africa Check,1,1.0,1,True
+africa_check_016,Africa Check,1,1.0,2,True
+africa_check_017,Africa Check,1,1.0,2,True
+africa_check_018,Africa Check,1,1.0,2,True
+africa_check_019,Africa Check,1,1.0,3,True
+africa_check_020,Africa Check,1,1.0,3,True
+africa_check_021,Africa Check,1,1.0,4,True
+africa_check_022,Africa Check,1,1.0,6,True
+africa_check_023,Africa Check,1,1.0,7,True
+africa_check_024,Africa Check,1,1.0,8,True
+africa_check_025,Africa Check,1,1.0,10,True
+africa_check_026,Africa Check,1,1.0,15,True
+grass_fact_check_001,Grass Fact Check,2,1.0,2,True
+grass_fact_check_002,Grass Fact Check,2,1.0,8,True
+grass_fact_check_003,Grass Fact Check,2,0.4,14,True
+grass_fact_check_004,Grass Fact Check,1,1.0,0,True
+grass_fact_check_005,Grass Fact Check,1,1.0,1,True
+grass_fact_check_006,Grass Fact Check,1,1.0,1,True
+grass_fact_check_007,Grass Fact Check,1,1.0,2,True
+grass_fact_check_008,Grass Fact Check,1,1.0,2,True
+grass_fact_check_009,Grass Fact Check,1,1.0,2,True
+grass_fact_check_010,Grass Fact Check,1,1.0,2,True
+grass_fact_check_011,Grass Fact Check,1,1.0,4,True
+grass_fact_check_012,Grass Fact Check,1,1.0,4,True
+grass_fact_check_013,Grass Fact Check,1,1.0,4,True
+grass_fact_check_014,Grass Fact Check,1,1.0,10,True
+grass_fact_check_015,Grass Fact Check,1,1.0,11,True
+grass_fact_check_016,Grass Fact Check,1,1.0,22,True
+grass_fact_check_017,Grass Fact Check,1,1.0,26,True
+grass_fact_check_018,Grass Fact Check,1,1.0,32,True
+grass_fact_check_019,Grass Fact Check,1,1.0,35,True
+grass_fact_check_020,Grass Fact Check,1,0.5,4,True
+grass_fact_check_021,Grass Fact Check,1,0.5,10,True
+grass_fact_check_022,Grass Fact Check,1,0.5,10,True
+grass_fact_check_023,Grass Fact Check,1,0.5,11,True
+grass_fact_check_024,Grass Fact Check,0,0.0,0,False
+grass_fact_check_025,Grass Fact Check,0,0.0,0,False
+grass_fact_check_026,Grass Fact Check,0,0.0,1,False
+grass_fact_check_027,Grass Fact Check,0,0.0,1,False
+dubawa_001,Dubawa,1,1.0,0,True
+dubawa_002,Dubawa,1,1.0,0,True
+dubawa_003,Dubawa,1,1.0,0,True
+dubawa_004,Dubawa,1,1.0,0,True
+dubawa_005,Dubawa,1,1.0,1,True
+dubawa_006,Dubawa,1,1.0,4,True
+dubawa_007,Dubawa,1,1.0,6,True
+factcheckni_001,FactCheckNI,1,1.0,2,True
+factcheckni_002,FactCheckNI,1,1.0,2,True
+factcheckni_003,FactCheckNI,1,1.0,3,True
+factcheckzw_001,FactCheckZW,1,1.0,0,True
+factcheckzw_002,FactCheckZW,0,0.0,0,False
+factcheckzw_003,FactCheckZW,0,0.0,1,False
+newsmeter_001,NewsMeter,1,1.0,5,True
+check_your_fact_001,Check Your Fact,1,1.0,1,True

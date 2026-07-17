@@ -1,0 +1,5 @@
+split,rows,statements_changed,remaining_leading_says,empty_statements,duplicate_ids,duplicate_statements_after_cleaning
+train,1632,330,0,0,0,0
+validation,228,48,0,0,0,0
+test,188,44,0,0,0,0
+full,2048,422,0,0,0,0

@@ -1,0 +1,13 @@
+metric,value
+original_rows,708.0
+original_pairs,354.0
+retained_rows,454.0
+retained_pairs,227.0
+rejected_rows,254.0
+rejected_pairs,127.0
+genuine_rows,227.0
+misleading_rows,227.0
+duplicate_claim_ids,0.0
+duplicate_claim_texts,0.0
+exact_liar2_overlaps,0.0
+largest_source_share_percentage,70.48

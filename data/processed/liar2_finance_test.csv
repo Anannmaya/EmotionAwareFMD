@@ -1,0 +1,189 @@
+id,statement,binary_label,binary_label_name,split,matched_pair_id,broad_topic,word_count
+5341,"Says Ronald Reagan ""understood repeatedly that when the deficit started to get out of control, that for him to make a deal he would have to propose both spending cuts and tax increases.",1,genuine,test,test_pair_0092,taxation,33
+8296,"The average rate of fraud"" in the Earned Income Tax Credit, Medicare, Medicaid and food stamps programs ""is 20 to 25 percent.",0,misleading,test,test_pair_0082,taxation,22
+16853,"Says Alexandria Ocasio-Cortez and Ilhan Omar vowed ""to remove senior's 'entitlements,' Social Security/Medicare.",0,misleading,test,test_pair_0010,social_welfare,13
+4850,"In the past year, Floridians, not government, created almost 135,000 new private sector jobs. We netted more than 120,000 total jobs in the first 11 months of 2011; the third most of any state in the nation.",1,genuine,test,test_pair_0008,labour_and_income,37
+1346,The law is very clear! 'The monies recouped from the TARP shall be paid into the general fund of the treasury for the reduction of the public debt.',1,genuine,test,test_pair_0034,public_finance,28
+8624,"Wisconsin is ""one of the bluest"" states, but under Scott Walker its unemployment rate ""is around 3.5%.",0,misleading,test,test_pair_0055,labour_and_income,17
+6773,Faculty salaries at UW System institutions have now fallen more than 18 percent below the national average.,1,genuine,test,test_pair_0023,public_finance,17
+6164,"Household income in America has gone down for families an average of $4,000 in the last four years"" while it "" went up $5,000"" under Mitt Romney when he was governor of Massachusetts",0,misleading,test,test_pair_0039,public_finance,33
+2218,Sean Duffy backed plan to privatize Social Security.,0,misleading,test,test_pair_0009,social_welfare,8
+7227,"The ""working tax cut"" created ""over 40,000 new jobs in just the last four years.",0,misleading,test,test_pair_0074,taxation,15
+10619,"Says 57 percent of federal spending goes to the military and just 1 percent goes to food and agriculture, including food stamps.",0,misleading,test,test_pair_0031,public_finance,22
+5670,"Says in the last six months of the Bush administration, the U.S. lost 3.5 million jobs, including 760,000 jobs during January 2009 alone.",1,genuine,test,test_pair_0062,labour_and_income,23
+7418,The average student comes out of college hundreds of thousands of dollars in debt.,0,misleading,test,test_pair_0022,public_finance,14
+2801,"Under the compromise tax agreement, ""99.7% of American families will not pay 1 nickel in an estate tax.",1,genuine,test,test_pair_0078,taxation,18
+11532,A college loan is the only loan in the United States that you cannot refinance when interest rates go down.,1,genuine,test,test_pair_0028,public_finance,20
+3899,Says many public-employee unions falsely told their Wisconsin members his budget-repair bill sought 12 percent to 13 percent of their incomes for health insurance premiums.,0,misleading,test,test_pair_0034,public_finance,25
+6248,"After a decade of decline, this country created over half a million manufacturing jobs in the last two and a half years.",1,genuine,test,test_pair_0058,labour_and_income,22
+2677,"Small businesses that have ""$250,000 in gross sales for the business. They're the ones that are looking at massive tax increases.",0,misleading,test,test_pair_0080,taxation,21
+4103,"Credit agency says Rep. Gibbs recklessly caused downgrade, higher interest rates.",0,misleading,test,test_pair_0016,public_finance,11
+8342,"The federal minimum wage is worth about 20 percent less than it was when Ronald Reagan"" gave his first address to a joint session of Congress.",1,genuine,test,test_pair_0060,labour_and_income,26
+4003,"Thirty-four of the last 44 (debt ceiling increases) have been for less than a year. So, this notion that short-term is somehow the exception, it's actually the rule.",1,genuine,test,test_pair_0035,public_finance,28
+6652,"Says that ""Tennessee law requires that schools receive half of proceeds -- $31 million per year"" -- from a half-cent increase in the Shelby County sales tax.",1,genuine,test,test_pair_0087,taxation,27
+2528,"Says Robert Hurt ""supports the tax loopholes that send American jobs overseas.",0,misleading,test,test_pair_0069,taxation,12
+2520,More Texans have new jobs today than the entire population of Fort Worth.,1,genuine,test,test_pair_0010,labour_and_income,13
+2598,"Members of Congress did not have three days to read the bill ""when the stimulus was rushed into law.",1,genuine,test,test_pair_0026,public_finance,19
+532,"If you have an investment for your child's education or own a mutual fund or a stock in a retirement plan, (Obama) is going to raise your taxes.",0,misleading,test,test_pair_0090,taxation,28
+3736,The Obama administration has cut taxes on small businesses 17 times.,1,genuine,test,test_pair_0003,taxation,11
+2057,"If we ban the practice of earmarks, we could save the American taxpayer anywhere between $15 (billion) to $20 billion dollars a year in pork-barrel spending.",1,genuine,test,test_pair_0086,taxation,26
+2358,"Jobs incentive program ""created over 1,200 high-wage jobs since 2009.",0,misleading,test,test_pair_0013,public_finance,10
+5056,"Maryland is ""creating jobs at 2 ½ times the rate that Virginia is.",0,misleading,test,test_pair_0049,labour_and_income,13
+9180,"Says a $12.5 million incentive deal she approved for Abbott Laboratories contained ""strong protections for taxpayers if job creation goals were not met.",0,misleading,test,test_pair_0084,taxation,23
+1495,"Says she was the ""the only Democrat who voted against the Wall Street bailout.",1,genuine,test,test_pair_0005,public_finance,14
+22591,"The largest contributor to the debt ceiling, or to our deficit, has been the Trump tax cuts.",0,misleading,test,test_pair_0077,taxation,17
+14511,"Studies show ""the 2016 shooting and murder rate in Chicago cost us about $9.6 BILLION DOLLARS"" and ""the entire City budget for 2018 is $8.6 billion dollars. This math does not work, it is financially killing our city.",0,misleading,test,test_pair_0040,public_finance,38
+1138,"The Baucus health care bill would require taxes on medical devices such as X-ray machines, female condoms, HIV tests and surgical needles.",1,genuine,test,test_pair_0081,taxation,22
+11660,"North Carolina has ""one of the fastest growing populations as well as the fastest growing economy in the country.",1,genuine,test,test_pair_0056,labour_and_income,19
+1260,Why is January 8th an important date in American history? This day in 1835 is the only day in our history when we have not been in debt.,1,genuine,test,test_pair_0033,public_finance,28
+19529,The tax deadline is April 18th. Do your taxes soon.,0,misleading,test,test_pair_0067,taxation,10
+10300,"Says he was known as ""Veto Corleone"" for cutting spending as Florida governor.",1,genuine,test,test_pair_0018,public_finance,13
+5769,"Says that under President Obama, there's been a substantial increase in federal government jobs.",0,misleading,test,test_pair_0050,labour_and_income,14
+10091,"Job growth in the United States is now at the ""fastest pace in this country's history.",0,misleading,test,test_pair_0053,labour_and_income,16
+5707,"It took us four years to balance the budget. Then I gave you four surplus budgets for the first time in more than 70 years, paid $600 billion down on the national debt.",1,genuine,test,test_pair_0038,public_finance,33
+7931,Unemployment in the city of St. Petersburg is below the state average.,1,genuine,test,test_pair_0047,labour_and_income,12
+2929,"The governor has made a ""commitment to billions of dollars in debt and new spending without any explanation of how he plans to pay that money back.",0,misleading,test,test_pair_0035,public_finance,27
+4839,Says federal spending has increased 21 percent over the past three years.,1,genuine,test,test_pair_0015,public_finance,12
+2168,Pat Toomey thinks corporations shouldn't pay any taxes.,1,genuine,test,test_pair_0064,taxation,8
+7171,"Paul Ryan's budget ""keeps the Obamacare taxes and spending cuts that paid for Obamacare, but then cuts all of the benefits.",1,genuine,test,test_pair_0080,taxation,21
+830,"There is no disagreement that we need action by our government, a recovery plan that will help to jump-start the economy.",0,misleading,test,test_pair_0029,public_finance,21
+7604,"Says ""our deficits are falling at the fastest rate in 60 years.",1,genuine,test,test_pair_0016,public_finance,12
+6863,"Says Virginia economic development officials ""decided they didn't want to bid on"" his company's electric automobile plant.",0,misleading,test,test_pair_0007,macroeconomy,17
+12039,We in Indiana have . . . the highest credit rating in the nation.,1,genuine,test,test_pair_0021,public_finance,14
+7130,"An annual income of $500,000 ""in Manhattan, believe it or not, is middle class.",0,misleading,test,test_pair_0051,labour_and_income,14
+842,Nancy Pelosi wants a Windfall Tax on Retirement Income.,0,misleading,test,test_pair_0064,taxation,9
+6958,Says he and Mitt Romney agreed on tying minimum wage increases to inflation.,1,genuine,test,test_pair_0049,labour_and_income,13
+12054,"Says Hillary Clinton ""supported North American Free Trade Agreement), and she supported China's entrance into the World Trade Organization…. She supported the job-killing trade deal with South Korea. She supported the Trans-Pacific Partnership.",1,genuine,test,test_pair_0063,labour_and_income,33
+8737,"Ryan Sitton's company ""accepted over $650,000 in Obama stimulus dollars.",0,misleading,test,test_pair_0014,public_finance,10
+8356,"Says President Barack Obama ""spent nearly a trillion dollars on make-work government jobs.",0,misleading,test,test_pair_0020,public_finance,13
+2771,"Ohio is losing over 700 family farms a year, some of them just to pay the inheritance tax.",1,genuine,test,test_pair_0077,taxation,18
+15865,Pritzker and Madigan want to change the constitution to allow a permanent jobs tax on middle class families.,0,misleading,test,test_pair_0078,taxation,18
+979,"In North Carolina, they used stimulus money to hire one new state worker. His job, apply for more stimulus funds from the taxpayers by the way of the federal government.",0,misleading,test,test_pair_0091,taxation,30
+9644,We have the third-lowest minimum wage … of developed countries.,1,genuine,test,test_pair_0043,labour_and_income,10
+9510,"In the last year, Wisconsin ranked third in Midwest job growth.",0,misleading,test,test_pair_0046,labour_and_income,11
+21531,"Biden gave Americans ""the cheapest gas prices on Earth.",0,misleading,test,test_pair_0002,macroeconomy,9
+1296,"The largest tax increase that we have ever had in our state is yours – it is the business margins tax that you signed, governor.",0,misleading,test,test_pair_0089,taxation,25
+3089,"Within a few years, we will be spending more on interest payments than on national security.",0,misleading,test,test_pair_0024,public_finance,16
+5583,"There are ""49 different federal job training programs that report to eight agencies.",1,genuine,test,test_pair_0048,labour_and_income,13
+13695,"Wages ""haven't gone up for a long time.",0,misleading,test,test_pair_0042,labour_and_income,8
+17230,"I pay $165 a month on my student loans for the next 13 years to pay them off. With Bernie Sanders' plan, my student loans will be forgiven. I'll only have to pay $450 extra in taxes a month for the next 25 years to make sure I'll have no more student debt.",0,misleading,test,test_pair_0094,taxation,53
+6583,"Says U.S. Senate candidate Tommy Thompson supports a plan for ""privatizing Social Security.",0,misleading,test,test_pair_0019,public_finance,13
+4652,"Georgia is one of seven states to lose jobs in 2011 and has lost 8,200 jobs so far.",1,genuine,test,test_pair_0055,labour_and_income,18
+20892,"$2,000 stimulus checks were due on Jan. 19.",0,misleading,test,test_pair_0012,public_finance,8
+14103,"Missouri is one of ""13 states this year have seen unemployment drop to the lowest levels in the history of their state.",0,misleading,test,test_pair_0058,labour_and_income,22
+8320,We have the lowest beer tax in the nation.,0,misleading,test,test_pair_0065,taxation,9
+12670,"Says Ohio's I-X Center ""used to be a great plant,"" but ""thousands of people of worked here, and they left"" when their jobs were moved overseas.",0,misleading,test,test_pair_0061,labour_and_income,26
+2152,"The federal government is now on track"" for the second-largest budget deficit ""in 65 years.",1,genuine,test,test_pair_0006,public_finance,15
+8179,"The Employment Non-Discrimination Act ""discriminates against Christian daycare, Christian parents, Christian business owners, and the rights of religious freedom.",0,misleading,test,test_pair_0057,labour_and_income,19
+2392,O'Shaughnessy even voted for her own personal stimulus package -- a taxpayer-funded pay raise for herself.,0,misleading,test,test_pair_0075,taxation,16
+16050,"Tariffs are ""paid for mostly by China, by the way, not by us.",0,misleading,test,test_pair_0004,macroeconomy,13
+4613,(Stimulus money) went to critically important projects like studying ants in Africa.,1,genuine,test,test_pair_0014,public_finance,12
+23236,"Says that under his presidency, the unemployment rate has ""been below 4% for the longest stretch in 50 years in American history.",1,genuine,test,test_pair_0059,labour_and_income,22
+4832,We're only inches away from no longer being a free economy.,0,misleading,test,test_pair_0003,macroeconomy,11
+2717,Wisconsin's projected state budget shortfall is now as low as $1.5 billion,0,misleading,test,test_pair_0017,public_finance,12
+10851,"Says Bernie Sanders is going to ""tax you people at 90 percent.",0,misleading,test,test_pair_0070,taxation,12
+2441,"Loranne ""Ausley's a financial train wreck for taxpayers -- pushing gas taxes, property taxes, taxes on seniors.",0,misleading,test,test_pair_0076,taxation,17
+9062,"The 2011 Rebuild America Jobs Act ""would have cost the average American family $1,000 a year while making no significant impact to fix our infrastructure and roads.",0,misleading,test,test_pair_0062,labour_and_income,27
+36,Senator McCain voted against the Bush tax cuts. Now he's for them.,1,genuine,test,test_pair_0067,taxation,12
+22110,The government is giving every household a $500 Walmart shopping credit to help with inflation.,0,misleading,test,test_pair_0006,macroeconomy,15
+7446,"Says less than half of 1 percent of all the Texas legislators who ever served draw ""a benefit"" from pensions tied to the salaries of state district judges.",0,misleading,test,test_pair_0063,labour_and_income,28
+10961,Says income tax rates under Eisenhower were as high as 90 percent.,1,genuine,test,test_pair_0069,taxation,12
+6682,"Says New Jersey is ""50th in return of our federal tax dollars.",1,genuine,test,test_pair_0068,taxation,12
+5522,"The U.S. economy is ""recovering slower than Europe",0,misleading,test,test_pair_0001,macroeconomy,8
+14018,"Says the Austin school district ""enjoys the highest per-student funding of all large Texas districts"" even after forwarding tax revenue to the state.",0,misleading,test,test_pair_0085,taxation,23
+7792,"The amount of interest"" paid on the federal debt exceeds ""total tax revenue.",0,misleading,test,test_pair_0072,taxation,13
+950,"Inside the stimulus package ""is anti-Christian legislation that will stop churches from using public schools for meeting on Sundays, as well as Boy Scouts and student Bible study groups.",0,misleading,test,test_pair_0036,public_finance,29
+9265,"Before I was state treasurer, my Rhode Island business helped create over 1,000 jobs.",1,genuine,test,test_pair_0051,labour_and_income,14
+3663,Look at the debt that has been accumulated in the last two years. It's more debt under this president than all those other presidents combined.,0,misleading,test,test_pair_0033,public_finance,25
+2665,"President Obama, Sen. Harry Reid and Rep. Nancy Pelosi passed a ""$1.2 trillion stimulus bill.",0,misleading,test,test_pair_0023,public_finance,15
+5915,"Says if labor force participation rate were the same as when Barack Obama became president, unemployment would be 11 percent.",1,genuine,test,test_pair_0057,labour_and_income,20
+10512,"Says ""Scott Walker's bad budget includes: No weekend for workers.",0,misleading,test,test_pair_0015,public_finance,10
+8703,"Dan Patrick ""changed his name from Danny Goeb to hide from"" his ""debts.",0,misleading,test,test_pair_0021,public_finance,13
+18569,"Says Joe Biden is proposing a tax increase that's ""the largest in American history.",0,misleading,test,test_pair_0073,taxation,14
+7762,We cut business taxes so today 70 percent of our businesses don't pay a business tax.,1,genuine,test,test_pair_0073,taxation,16
+14293,"About New York state: ""We have the highest debt per capita.",1,genuine,test,test_pair_0013,public_finance,11
+23031,The New York state budget covers 96% of eligible preschoolers,1,genuine,test,test_pair_0012,public_finance,10
+1499,"The health care reform bill ""is the largest tax increase in U.S. history.",0,misleading,test,test_pair_0071,taxation,13
+10950,Women fill two-thirds of minimum wage jobs.,1,genuine,test,test_pair_0041,labour_and_income,7
+5659,"Says ""there have been some job gains in the McMansion State since Mr. Christie took office, but they have lagged gains both in the nation as a whole and in New York and Connecticut, the obvious points of comparison.",1,genuine,test,test_pair_0040,labour_and_income,39
+8519,"Under Scott Walker, Wisconsin ""unemployment's up"" from 4.8% to 6.2%",0,misleading,test,test_pair_0043,labour_and_income,10
+6878,Spending of government money is 17 percent less than it was a decade ago.,1,genuine,test,test_pair_0020,public_finance,14
+5953,"Gov. Bill Haslam is ""making our Economic Development department Sharia compliant"" by hiring a woman ""who specializes in Sharia compliance. That's what her job is.",0,misleading,test,test_pair_0060,labour_and_income,25
+10818,"Virginia's current unemployment rate is ""the lowest in Virginia history.",0,misleading,test,test_pair_0044,labour_and_income,10
+10703,As many as six federal department budget bills have been delayed because of opposition to amendments that would ban Confederate battle flag sales at federal building gift shops.,1,genuine,test,test_pair_0039,public_finance,28
+5756,"Says Joe Kyrillos ""voted to raid the state's pension funds by $2.8 billion that is costing New Jersey taxpayers still today to the tune of nearly $15 billion dollars to repay that money.",0,misleading,test,test_pair_0092,taxation,33
+2786,"The Bush-era tax cuts failed to increase employment and ""work-force participation fell in 2001 and has never returned to the record level set in 2000.",1,genuine,test,test_pair_0084,taxation,25
+9412,The state budget has increased almost $800 million a year in each of the last two years.,1,genuine,test,test_pair_0024,public_finance,17
+4084,"Says he ""helped bring"" Uline company to Kenosha area, ""creating 800 local jobs.",0,misleading,test,test_pair_0048,labour_and_income,13
+6526,"Says Barack Obama has pension investments that include Chinese firms, and ""investments through a Caymans trust.",1,genuine,test,test_pair_0072,taxation,16
+13824,The bill that I carried cutting MO's income tax for 1st time in over 100 years will start its 1st phase in jan 1 2018. #moleg @Eric_Schmitt,1,genuine,test,test_pair_0088,taxation,27
+4670,"(Chris Christie) has not paid one dollar of state money into our pension system, and then states that the system is broke.",1,genuine,test,test_pair_0031,public_finance,22
+3936,Says recent polls show Americans agree with Republicans that the federal debt ceiling should not be raised and the debt and deficit should be dealt with mostly by cutting spending.,1,genuine,test,test_pair_0037,public_finance,30
+22229,Don Bolduc wants to cut trillions from Medicare and end Social Security.,1,genuine,test,test_pair_0017,public_finance,12
+3996,President Reagan did it (raised the debt ceiling) 18 times. George W. Bush did it seven times.,1,genuine,test,test_pair_0022,public_finance,17
+1130,"During the Reagan era, ""the richest Americans had their top income tax rate cut in half.",1,genuine,test,test_pair_0071,taxation,16
+13660,The new tax will make soda sold in Chicago among the most expensive in the country.,1,genuine,test,test_pair_0074,taxation,16
+3597,"Promotes a chart saying that Barack Obama has ""increased the debt"" by 16 percent, compared to George W. Bush, who increased it by 115 percent.",0,misleading,test,test_pair_0032,public_finance,25
+5865,"Says state Sen. Paul Sarlo ""said in February on NJTV, 'there will be no tax increases in this budget'"" and ""voted the other night in the Senate Budget Committee to raise income taxes $800 million.",1,genuine,test,test_pair_0093,taxation,35
+14754,"Since taking office, we have enacted more than $8 billion in cumulative tax relief.",1,genuine,test,test_pair_0070,taxation,14
+11123,"The economy is ""too weak to raise income levels.",1,genuine,test,test_pair_0002,labour_and_income,9
+3770,Creating 25 jobs in Umatilla County has the same impact as 500 jobs in the metro region.,1,genuine,test,test_pair_0053,labour_and_income,17
+2566,Most of the jobs that we lost were lost before the economic policies we put in place had any effect.,1,genuine,test,test_pair_0027,public_finance,20
+9796,Texas families have kept more than $10 billion in their family budgets since we successfully fought to restore Texas' sales tax deduction a decade ago.,1,genuine,test,test_pair_0085,taxation,25
+10289,"Every year we spend roughly $500 billion on tax compliance. That is roughly the budget of our entire military, entirely wasted on tax compliance.",0,misleading,test,test_pair_0088,taxation,24
+14729,"After Texas cut"" its ""two-year family planning budget by $73 million, one in four clinics closed their doors.",1,genuine,test,test_pair_0025,public_finance,18
+3735,We have unemployment that rivals the Great Depression.,0,misleading,test,test_pair_0041,labour_and_income,8
+3341,"Says Majority Leader Eric Cantor called for ""abolishing Social Security and Medicare.",0,misleading,test,test_pair_0018,public_finance,12
+1135,"During the Reagan era, while productivity increased, ""wages for working people remained frozen.",1,genuine,test,test_pair_0004,labour_and_income,13
+10561,"Under President Barack Obama, income levels and unemployment numbers ""are worse now than just about ever"" for African-Americans.",0,misleading,test,test_pair_0056,labour_and_income,18
+7819,One out of 10 minimum-wage workers in the U.S. live in Texas.,1,genuine,test,test_pair_0046,labour_and_income,12
+8149,About 2 percent of Americans get paid the minimum wage.,1,genuine,test,test_pair_0042,labour_and_income,10
+7016,"About two-thirds of all consumption is services. . . It was just the opposite"" when the sales tax was enacted in the '30s.",1,genuine,test,test_pair_0083,taxation,23
+2784,"Last year, ExxonMobil made $19 billion in profit. Guess what. They paid zero in taxes. They got a $156 million refund from the IRS.",0,misleading,test,test_pair_0086,taxation,24
+8245,Our economy still has three people looking for every job (opening).,1,genuine,test,test_pair_0045,labour_and_income,11
+22818,DO Black credit card is part of a government plot to control people's lives.,0,misleading,test,test_pair_0005,macroeconomy,14
+2036,"Georgia has lost more than 124,000 jobs and the unemployment rate has increased since the stimulus passed",1,genuine,test,test_pair_0007,public_finance,17
+4094,"Says that under President John F. Kennedy, ""government took up"" 27 percent of the economy, and today it ""consumes 37 percent.",1,genuine,test,test_pair_0030,public_finance,21
+5213,They're paying a less rate of tax -- these richest people in America -- than they have in the last 80 years.,1,genuine,test,test_pair_0082,taxation,22
+10681,Trump proposed enacting the largest tax increase in American history.,1,genuine,test,test_pair_0066,taxation,10
+2062,I've even cut my own salary -- twice.,1,genuine,test,test_pair_0009,public_finance,8
+13884,"The Obama administration ""borrowed more than $10 trillion, right? And yet, we picked up $5.2 trillion just in the stock market. ... Maybe in a sense we're reducing debt.",0,misleading,test,test_pair_0037,public_finance,29
+10038,"Every illegal immigrant ""can be eligible for up to $36,000 to $38,000 in earned income tax credits without paying a dime in.",0,misleading,test,test_pair_0083,taxation,22
+15079,Scott Wallace wants to tax families of five for 'irresponsible breeding',0,misleading,test,test_pair_0068,taxation,11
+2642,Pres. Obama's finance team is recommending a . . . 1% tax on all transactions at any financial institution.,0,misleading,test,test_pair_0079,taxation,19
+9158,"Twenty percent of single adults, ages 21 to 25 with no kids, ""are not working or even in school trying to find a job.",0,misleading,test,test_pair_0087,taxation,24
+6835,"The state budget proposal has been submitted ""on time and [it's] the earliest that a governor has done so in over two decades.",1,genuine,test,test_pair_0032,public_finance,23
+8484,"Federal government reneging"" on Medicaid payments to Wisconsin caused about $240 million in extra costs in the 2013-'15 state budget.",0,misleading,test,test_pair_0028,public_finance,20
+4290,"Toledo Mayor ""Mike Bell (once) lost his job as a firefighter because his city ran out of money.",1,genuine,test,test_pair_0054,labour_and_income,18
+5646,"Says under President Barack Obama there's been ""the lowest discretionary spending we've had in decades in the United States.",0,misleading,test,test_pair_0026,public_finance,19
+7666,"If we use (Tax Increment Financing) funding, that's going to take funds from the general fund for Pinellas County, as it will take funds from the general fund for the city of St. Pete.",0,misleading,test,test_pair_0093,taxation,34
+4017,This is the first time in the history that we've had the raising of a debt limit also with spending cuts.,0,misleading,test,test_pair_0030,public_finance,21
+19452,"Pelosi's $1.9 trillion bailout gives EVERY federal employee a $21,000 bonus check… they never lost their job!",0,misleading,test,test_pair_0025,public_finance,17
+9061,"I co-sponsored the Rebuild America Jobs Act"" for transportation and infrastructure.",0,misleading,test,test_pair_0045,labour_and_income,11
+5989,"Says Chris Christie ""has refused to fund pensions by billions of dollars,"" and got legislative approval to begin ""properly funding pensions"" in 2018.",1,genuine,test,test_pair_0011,social_welfare,23
+1995,"The president's budget ""would take ... non-defense spending to its lowest level ... as a percentage of the economy since JFK.",1,genuine,test,test_pair_0029,public_finance,21
+5494,"Says the stimulus bill sent tax credits overseas, such as ""$1.2 billion to a solar company that's building a plant in Mexico.",0,misleading,test,test_pair_0081,taxation,22
+5544,"New Jersey has ""the highest property taxes in the nation and not by a little. They are the highest property taxes in the nation, more than double the national average.",1,genuine,test,test_pair_0091,taxation,30
+9532,"As mayor, [Allan Fung] raised taxes three times.",1,genuine,test,test_pair_0065,taxation,8
+11817,I've cut the budget of the (lieutenant governor's) office by more than half.,1,genuine,test,test_pair_0019,public_finance,13
+10021,"The average person only pays about $1,800 in state taxes — which is the lowest of all 50 states.",1,genuine,test,test_pair_0079,taxation,19
+20291,Wisconsin Governor (Tony) Evers wanted to raise your taxes by $1 billion in a pandemic. Republicans stopped him and delivered the largest tax CUT in state history.,1,genuine,test,test_pair_0089,taxation,27
+11655,Research even shows that sending more girls to school can boost an entire country's GDP.,1,genuine,test,test_pair_0001,macroeconomy,15
+20842,Biden announces Medicare stimulus that provides free dental work to all Seniors who need it! Crowns and implants included.,0,misleading,test,test_pair_0027,public_finance,19
+4851,Says the state tax burden per citizen in New York is twice as high as in Florida.,1,genuine,test,test_pair_0075,taxation,17
+18486,"Says Merrick Garland is investigating Donald Trump's ""tax evasion case.",0,misleading,test,test_pair_0066,taxation,10
+10487,"Says because of his actions, Wisconsin ""property taxes today are lower than they were four years ago.",1,genuine,test,test_pair_0076,taxation,17
+13055,"Midland, Texas, now beats the San Francisco area in the percentage of jobs created by startups.",1,genuine,test,test_pair_0052,labour_and_income,16
+3357,We lost more jobs in this great recession than the last four recessions combined.,1,genuine,test,test_pair_0050,labour_and_income,14
+15214,Of course you've got a low unemployment rate when people've got to work two and three jobs just to make ends meet.,0,misleading,test,test_pair_0059,labour_and_income,22
+3946,The black unemployment rate (has) increased since the recovery has begun.,1,genuine,test,test_pair_0044,labour_and_income,11
+3125,I campaigned on (the proposals in the budget repair bill for Wisconsin) all throughout the election. Anybody who says they are shocked on this has been asleep for the past two years.,0,misleading,test,test_pair_0038,public_finance,32
+15667,"Since 1938 the minimum wage has been increased ""23 times"" and was raised ""21 times during Democratic congresses, and only twice during Republican ones.",1,genuine,test,test_pair_0061,labour_and_income,24
+7196,"Under Republican Chris Christie, New Jersey had the highest increase in unemployment in the country last year. Nearly 1 in 10 jobless. The worst unemployment in the region. Near the bottom in economic growth, yet Christie protected a tax cut for millionaires but vetoed a minimum wage hike.",1,genuine,test,test_pair_0094,taxation,48
+16893,"In 2018, Biden lauded Paul Ryan for proposing cuts to Social Security and Medicare.",0,misleading,test,test_pair_0011,social_welfare,14
+15008,"Says he's a ""small-town supervisor who has kept a balanced budget, who has increased surpluses, who has led us to the highest credit rating our town has ever had.",1,genuine,test,test_pair_0036,public_finance,29
+4731,"Since Wisconsin Gov. Scott Walker took office, ""we are losing jobs at rates not seen in decades.",0,misleading,test,test_pair_0054,labour_and_income,17
+6193,"Says Connie Mack IV co-sponsored a bill to ""take a third of the Social Security Trust Fund ... give it in individual accounts to the senior citizens, who then were to invest it in the stock market.",0,misleading,test,test_pair_0008,business_and_markets,37
+14834,"Gov. Bruce Rauner has ""created no jobs over the past three years.",0,misleading,test,test_pair_0047,labour_and_income,12
+171,I believe in tax cuts. I believe in being a supply-sider. I cut the income tax I think it was 24 percent. We got 42 percent more revenues.,1,genuine,test,test_pair_0090,taxation,28
+2532,"Since Rep. John Boccieri's election, ""Ohio has lost 600,000 jobs"" and his district's ""unemployment has doubled.",0,misleading,test,test_pair_0052,labour_and_income,16
