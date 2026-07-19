@@ -1,0 +1,5 @@
+dataset,rfc_group,distance_to_training_genuine,distance_to_training_misleading,closer_training_profile,distance_difference_genuine_minus_misleading
+liar2_finance,rfc_persistent_failure,0.28644021948668524,0.3298377953382749,genuine,-0.043397575851589654
+liar2_finance,rfc_jointly_detected,0.10250269678982002,0.13755570806755998,genuine,-0.035053011277739965
+factors_finance,rfc_persistent_failure,0.15400725628758002,0.18466528662566722,genuine,-0.0306580303380872
+factors_finance,rfc_jointly_detected,0.10364930149402032,0.12012070655208935,genuine,-0.01647140505806903
