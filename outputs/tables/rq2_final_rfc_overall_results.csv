@@ -1,0 +1,9 @@
+dataset,scope,metric,repetitions,text_only_mean,emotion_aware_mean,mean_difference,emotion_better_repetitions,text_better_repetitions,tied_repetitions,difference_percentage_points
+liar2_finance,overall,misleading_recall,10,0.409973285841496,0.3080142475512021,-0.1019590382902938,0,10,0,-10.19590382902938
+liar2_finance,overall,mean_probability_misleading,10,0.4685166063345538,0.4404298459161959,-0.0280867604183579,3,7,0,-2.80867604183579
+liar2_finance,overall_non_sentiment,misleading_recall,10,0.4118865866957469,0.3128680479825518,-0.0990185387131952,0,10,0,-9.90185387131952
+liar2_finance,overall_non_sentiment,mean_probability_misleading,10,0.4697759066137467,0.4414563445361951,-0.0283195620775515,3,7,0,-2.83195620775515
+factors_finance,overall,misleading_recall,10,0.3924309884238647,0.3237756010685663,-0.0686553873552983,0,10,0,-6.86553873552983
+factors_finance,overall,mean_probability_misleading,10,0.4891635065612471,0.4538169848097973,-0.0353465217514498,0,10,0,-3.5346521751449798
+factors_finance,overall_non_sentiment,misleading_recall,10,0.3948745910577972,0.3146128680479825,-0.0802617230098146,0,10,0,-8.026172300981461
+factors_finance,overall_non_sentiment,mean_probability_misleading,10,0.4896837113898732,0.4514897520621807,-0.0381939593276925,0,10,0,-3.81939593276925
