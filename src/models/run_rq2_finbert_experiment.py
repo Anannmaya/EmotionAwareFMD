@@ -107,13 +107,16 @@ def main() -> None:
             for row in metrics.itertuples()
         }
         if rfc is not None:
-            rfc_completed = {
-                (str(row.dataset), int(row.seed), str(row.model))
-                for row in rfc_metrics[
-                    rfc_metrics["scope"] == "overall"
-                ].itertuples()
-            }
-            completed &= rfc_completed
+            if rfc_metrics.empty:
+                completed = set()
+            else:
+                rfc_completed = {
+                    (str(row.dataset), int(row.seed), str(row.model))
+                    for row in rfc_metrics[
+                        rfc_metrics["scope"] == "overall"
+                    ].itertuples()
+                }
+                completed &= rfc_completed
 
     selected_configs = [
         config for config in DATASETS if config.name in set(args.datasets)
