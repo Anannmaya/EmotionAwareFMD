@@ -1,0 +1,3 @@
+dataset,metric,alternative,repetitions,text_only_mean,emotion_aware_mean,mean_difference,relative_improvement_percent,emotion_better_repetitions,text_better_repetitions,ties,wilcoxon_statistic,p_value,rank_biserial,p_value_holm,significant_holm_0_05
+factors_finance,macro_f1,greater,10,0.5364176533951261,0.5646393455665681,0.028221692171441944,5.261141573700931,8,2,0,43.0,0.0654296875,0.5636363636363636,0.130859375,False
+liar2_finance,macro_f1,greater,10,0.682268244089644,0.673963876364127,-0.008304367725516838,-1.2171704893868278,3,7,0,15.0,0.9033203125,-0.45454545454545453,0.9033203125,False

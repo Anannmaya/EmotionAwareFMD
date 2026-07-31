@@ -1,0 +1,3 @@
+dataset,n_repetitions,text_only_recall_mean,text_only_recall_std,emotion_aware_recall_mean,emotion_aware_recall_std,mean_difference_emotion_minus_text,median_difference_emotion_minus_text,emotion_better_repetitions,text_better_repetitions,tied_repetitions,wilcoxon_statistic,p_value,rank_biserial,p_value_holm,significant_holm_0_05
+liar2_finance,10,0.495013357079252,0.03473335276929393,0.36990204808548527,0.03390868130809772,-0.1251113089937667,-0.12466607301869989,0,10,0,0.0,0.001953125,-1.0,0.00390625,True
+factors_finance,10,0.3902048085485307,0.023223702699314744,0.3101513802315227,0.024165373672292177,-0.08005342831700801,-0.08281389136242209,0,10,0,0.0,0.001953125,-1.0,0.00390625,True
