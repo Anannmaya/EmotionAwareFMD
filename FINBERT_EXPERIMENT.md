@@ -1,6 +1,6 @@
 # Final FinBERT RQ2 Experiment
 
-This branch contains the final paired neural experiment for RQ2:
+This repository contains the final paired neural experiment for RQ2:
 
 - **Text-only:** end-to-end fine-tuned `ProsusAI/finbert`.
 - **Emotion-aware:** the identical FinBERT encoder with the five standardised affective scores concatenated to the final `[CLS]` representation before the binary classification layer.
@@ -21,8 +21,6 @@ This branch contains the final paired neural experiment for RQ2:
 Use a Colab GPU or another CUDA GPU. From the repository root:
 
 ```bash
-git checkout finbert-experiment
-git pull origin finbert-experiment
 python -m src.models.run_rq2_finbert_experiment
 ```
 
